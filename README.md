@@ -1,5 +1,5 @@
 # SubRenameShift
-
+Renames and optionally shifts timings for subtitle files in a folder.
 
 ## Usage
 1. Probably don't actually use this.
