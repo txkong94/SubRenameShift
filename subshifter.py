@@ -3,9 +3,9 @@ import subprocess
 from datetime import datetime
 
 
-#ffprobe = r"ffprobe\ffprobe.exe"
-#filename = r"TestFiles\shifted.mkv"
-#subfile = r"TestFiles\shifted.ass"
+ffprobe = r"ffprobe\ffprobe.exe"
+filename = r"TestFiles\shifted.mkv"
+subfile = r"TestFiles\shifted.ass"
 
 ffprobe = os.path.join(os.path.dirname(os.path.abspath(__file__)), ffprobe)
 filename = os.path.join(os.path.dirname(os.path.abspath(__file__)), filename)
